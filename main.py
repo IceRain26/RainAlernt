@@ -1,6 +1,6 @@
 import requests
 
-api_key = "5fa6c37cd481e6be8749ad860417a750"
+api_key = "OpenWeatherMap Token"
 
 
 weather_param = {
